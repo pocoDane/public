@@ -1,0 +1,72 @@
+* Brainstorming..
+* We need to frame this work a bit better
+** Validate my assumption
+*** Create a space in confluence to be the model for future areas of investment
+* Possibility to use Lean UX constructs
+** Personas
+*** Dustin
+**** wants happy employees
+**** endearing customers
+**** profit
+*** V
+**** repeatable/scalable processes
+**** accountability
+*** Sales
+**** insight into hot topics and our strengths to server
+*** Manager
+**** objective growth measures
+**** scalable processes
+**** invested employees
+*** PC
+**** challenge
+**** growth
+**** insight into impact
+*** SC
+**** chance for specialization?
+**** chance for ownership
+*** C
+**** place to grow
+** Hypothesises
+** measurable outcomes from this endeavor
+* Confluence
+* Xamarin
+** Xamarin University
+*** Ask who completed it
+*** Inquire about what others have used
+** Books?
+*** Will inquire
+*** nothing looks good on amazon
+** Pluralsight?
+** Types of tasks
+** Projects who have used it
+** Area of interest
+** Case studies
+** Brown bags
+** Blog posts
+* What we want people to share
+** Task estimation
+** Resources
+** Good examples
+** Bad examples
+** Pain points
+** Missed expectations
+* Simple case studies
+** Client
+** Project
+** Repository
+** Start and End date
+** Xamarin features
+** Initial estimates
+** Actual timelines
+** Speed bumps
+** Consider this when estimating
+** What not to do
+** Lessons learned
+** I would recommend
+** I would not recommend
+* Use case studies to isolate pain points - direct high-level individuals to look for possible solutions to these problems - and a place to document them
+* Hurdles
+** keeping the data organized
+** keeping people motivated to do this
+** getting people on board
+** how to show the value
